@@ -1,9 +1,15 @@
 # AI Engineer Journey
 
-10 Week AI Engineer Summer Program
+A journey to become an AI Engineer.
 
-Goal:
-Build AI projects and become industry ready.
+## Goals
 
-Started:
-June 2026
+- Learn Python professionally
+- Learn Git/GitHub
+- Build LLM applications
+- Build RAG systems
+- Deploy AI products
+
+## Projects
+
+Coming soon...
